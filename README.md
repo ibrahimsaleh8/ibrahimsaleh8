@@ -1,16 +1,39 @@
-## Hi there 👋
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
-<!--
-**ibrahimsaleh8/ibrahimsaleh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px" alt="Waving Hand Emoji">
+</h1>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=60&pause=1000&color=black&center=true&vCenter=true&width=1000&height=100&lines=Hi+I'm+Ibrahim+Saleh;Frontend+Developer;React+%26+Next.js+Specialist;Tech+Enthusiast)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">A passionate Frontend Developer focused on building beautiful, performant web applications 🚀✨</h3>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ibrahimsalehdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<hr/>
+
+- 🎓 I’m a student at the **Faculty of Computers and Information, Menoufia University**  
+- 💻 I specialize in **React, Next.js, TypeScript, Tailwind CSS, and Firebase**  
+- 🚀 Currently building **e-commerce platforms and academic management systems**  
+- 🤝 Open to collaborating on **React/Next.js projects and open-source contributions**  
+- 📝 Ask me about **TypeScript, React performance optimization, UI/UX best practices**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ibrahim-saleh-dev) or [Telegram](https://t.me/Noyan_71)
+
+<br/>
+
+<h3 align="center">⚒️ Languages & Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,html,css,git,github,postman,stackoverflow,vscode" alt="My Skills" />
+  </a>
+</p>
+
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahim-saleh-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/Noyan_71" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=plastic&logo=Telegram&logoColor=white" alt="Telegram"/></a>
+</p>
