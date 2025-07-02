@@ -1,16 +1,24 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
-<h1 align="center">
-  <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px" alt="Waving Hand Emoji">
-</h1>
+<h3 align="center">⚒️ Languages & Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,html,css,git,github,postman,stackoverflow,vscode" alt="My Skills" />
+  </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=60&pause=1000&color=black&center=true&vCenter=true&width=1000&height=100&lines=Hi+I'm+Ibrahim+Saleh;Frontend+Developer;React+%26+Next.js+Specialist;Tech+Enthusiast)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Frontend Developer focused on building beautiful, performant web applications 🚀✨</h3>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ibrahimsalehdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahim-saleh-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/Noyan_71" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=plastic&logo=Telegram&logoColor=white" alt="Telegram"/></a>
 </p>
+
 
 <hr/>
 
@@ -23,17 +31,4 @@
 
 <br/>
 
-<h3 align="center">⚒️ Languages & Tools</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,html,css,git,github,postman,stackoverflow,vscode" alt="My Skills" />
-  </a>
-</p>
-
-<h3 align="center">🌐 Connect with Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ibrahim-saleh-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://t.me/Noyan_71" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=plastic&logo=Telegram&logoColor=white" alt="Telegram"/></a>
-</p>
